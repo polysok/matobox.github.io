@@ -1,21 +1,23 @@
 @import "fonts";
+@import url('https://fonts.googleapis.com/css?family=Barlow&display=swap');
 @import "rouge-github";
 
 body {
-  background-color: #fff;
+  background-color: #222222;
   padding:50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#727272;
-  font-weight:400;
+  font: 16px/1.7 "Barlow", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#efefef;
+  font-weight:lighter;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:white;
   margin:0 0 20px;
 }
 
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
+  text-align: justify;
 }
 
 h1, h2, h3 {
@@ -31,16 +33,15 @@ h2 {
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:#8aa4ce;
 }
 
 a {
-  color:#267CB9;
+  color:color(display-p3 0.9647 0.7686 0.4471);
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#069;
   font-weight: bold;
 }
 
@@ -208,6 +209,11 @@ footer {
   position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
+}
+.not-available
+{
+  color:#444;
+  opacity: 0.5;
 }
 
 @media print, screen and (max-width: 960px) {

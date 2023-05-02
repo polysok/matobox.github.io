@@ -1,123 +1,26 @@
 ---
 layout: default
 ---
+### What is Matobox ?
+Matobox is a game designed to train you in mental arithmetic while playing an extremely fun game.
+It offers different levels of difficulty to allow you to always play with pleasure. 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+You can even submit your score if you succeed in the game! But be warned, the world is full of little geniuses who are particularly good at math, and making it into the top 20 is not for the faint of heart! Unless you are a genius yourself...
 
-[Link to another page](./another-page.html).
+![Branching](./assets/img/matobox-screen.png)
 
-There should be whitespace between paragraphs.
+### Why Matobox ?
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Because apart from children, nobody does mental arithmetic anymore! Because of telephones and other computer tools, simple multiplications are done automatically by the machine and we don't make the effort to do it mentally anymore.
 
-# Header 1
+We are getting dumber and dumber and our brains are getting fogged up a little more every day.
+Mental arithmetic, like other brain exercises, allows us to clean our brains and accelerate our thinking without any tools! Don't let the machine rule the world (entirely) !
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Ok... But why is Matobox free and ad-free ??
 
-## Header 2
+Because the world needs people who are not driven by money but just by the beauty of things.
+I will find another way to make money !
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+And advertising sucks. Especially the wild advertising that pollutes free apps 
+Paying for an app that brings us added value is fair. 
+Forcing us to pay to remove ads doesn't bring any added value.
