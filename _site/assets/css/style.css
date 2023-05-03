@@ -517,6 +517,28 @@ footer {
   opacity: 0.5;
 }
 
+.contact-form {
+  min-width: 100px;
+  height: 30px;
+  border-radius: 4px;
+  font-size: medium;
+  margin-bottom: 10px;
+  border: none;
+  padding: 4px;
+  background-color: #efefef;
+}
+
+.contact-form-button {
+  background-color: color(display-p3 0.9647 0.7686 0.4471);
+  border: none;
+}
+
+.contact-form-textarea {
+  min-height: 300px;
+  width: 350px;
+  border: none;
+}
+
 @media print, screen and (max-width: 960px) {
   div.wrapper {
     width: auto;
