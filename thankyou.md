@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Contact Us"
-permalink: /thankyou/
+permalink: /thankyou
 ---
 
 ## Contact
