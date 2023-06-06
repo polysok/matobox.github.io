@@ -306,9 +306,12 @@
 body {
   background-color: #222222;
   padding: 50px;
-  font: 16px/1.7 "Barlow", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 16px/1.7 "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #efefef;
-  font-weight: lighter;
+  font-weight: normal;
+  background-image: url(/assets/img/background.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -327,6 +330,7 @@ h1, h2, h3 {
 
 h1 {
   font-size: 28px;
+  text-transform: uppercase;
 }
 
 h2 {
@@ -390,7 +394,6 @@ table {
 th, td {
   text-align: left;
   padding: 5px 10px;
-  border-bottom: 1px solid #e5e5e5;
 }
 
 dt {
@@ -431,25 +434,12 @@ ul.downloads {
   list-style: none;
   height: 40px;
   padding: 0;
-  background: #f4f4f4;
-  border-radius: 5px;
-  border: 1px solid #e0e0e0;
-  width: 270px;
 }
 
 .downloads li {
-  width: 89px;
+  width: 120px;
   float: left;
-  border-right: 1px solid #e0e0e0;
-  height: 40px;
-}
-
-.downloads li:first-child a {
-  border-radius: 5px 0 0 5px;
-}
-
-.downloads li:last-child a {
-  border-radius: 0 5px 5px 0;
+  padding: 5px;
 }
 
 .downloads a {
@@ -567,6 +557,19 @@ footer {
     top: 52px;
   }
 }
+.matobox-logo {
+  width: 110px;
+}
+
+.matobox-logo > img {
+  max-width: 100px;
+}
+
+.matobox-title {
+  text-align: left;
+  padding-left: 10px;
+}
+
 @media print, screen and (max-width: 720px) {
   body {
     word-wrap: break-word;
